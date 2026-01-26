@@ -1,57 +1,57 @@
 # Pitchbook Companies Information Dataset Sample
 
-<h2>A sample dataset of 1,002 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.002 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Pitchbook Companies Information Dataset Sample** includes **1,002 records** and was extracted using the **Bright Data API**.
+Dieses **Pitchbook Companies Information Dataset Sample** umfasst **1.002 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The web address for the company's profile on Pitchbook. |
-| `id` | Unique identifier assigned to each company by Pitchbook. |
-| `company_name` | The official name of the company. |
-| `company_socials` | Links to the company's social media profiles. |
-| `year_founded` | The year the company was established. |
-| `status` | Current business status such as active, acquired, or out of business. |
-| `employees` | Approximate number of employees working at the company. |
-| `latest_deal_type` | The most recent type of deal, e.g., M&A, funding round. |
-| `financing_rounds` | Total number of financing rounds the company has undergone. |
-| `investments` | Number of investments made by the company. |
-| `description` | Brief overview of the company's operations and products/services. |
-| `contact_information` | Contact details including websites and email addresses. |
-| `patents` | Information on patents held by the company. |
-| `competitors` | List of main competitors in the industry. |
-| `research_analysis` | Reports and analysis conducted on the company's business. |
-| `patent_activity` | Details of recent patent filings and activities. |
-| `all_investments` | Comprehensive list of all investments received by the company. |
-| `faq` | Frequently asked questions related to the company's profile. |
-| `latest_deal_amount` | Reported amount of the latest deal or investment. |
-| `latest_deal_amount_value` | Numeric value of the latest deal amount. |
-| `latest_deal_date` | Date of the most recent deal involving the company. |
+| `url` | Die Webadresse für das Profil des Unternehmens auf Pitchbook. |
+| `id` | Eindeutige Kennung, die jedem Unternehmen von Pitchbook zugewiesen wird. |
+| `company_name` | Der offizielle Name des Unternehmens. |
+| `company_socials` | Links zu den Social-Media-Profilen des Unternehmens. |
+| `year_founded` | Das Jahr, in dem das Unternehmen gegründet wurde. |
+| `status` | Aktueller Geschäftsstatus, z. B. aktiv, übernommen oder nicht mehr tätig. |
+| `employees` | Ungefähre Anzahl der im Unternehmen beschäftigten Mitarbeitenden. |
+| `latest_deal_type` | Die zuletzt erfolgte Deal-Art, z. B. M&A, Finanzierungsrunde. |
+| `financing_rounds` | Gesamtzahl der Finanzierungsrunden, die das Unternehmen durchlaufen hat. |
+| `investments` | Anzahl der vom Unternehmen getätigten Investitionen. |
+| `description` | Kurzer Überblick über die Geschäftstätigkeit und Produkte/Dienstleistungen des Unternehmens. |
+| `contact_information` | Kontaktdaten einschließlich Websites und E-Mail-Adressen. |
+| `patents` | Informationen zu Patenten, die das Unternehmen hält. |
+| `competitors` | Liste der wichtigsten Wettbewerber in der Branche. |
+| `research_analysis` | Berichte und Analysen, die zum Geschäft des Unternehmens durchgeführt wurden. |
+| `patent_activity` | Details zu aktuellen Patentanmeldungen und -aktivitäten. |
+| `all_investments` | Umfassende Liste aller Investitionen, die das Unternehmen erhalten hat. |
+| `faq` | Häufig gestellte Fragen im Zusammenhang mit dem Profil des Unternehmens. |
+| `latest_deal_amount` | Gemeldeter Betrag des letzten Deals oder der letzten Investition. |
+| `latest_deal_amount_value` | Numerischer Wert des letzten Deal-Betrags. |
+| `latest_deal_date` | Datum des letzten Deals, an dem das Unternehmen beteiligt war. |
 
 
 ## Use Cases
 
-### 1. Investment Analysis
-Utilize this dataset to assess market trends and investment opportunities by examining company profiles and financing details.
+### 1. Investmentanalyse
+Nutzen Sie diesen Datensatz, um Markttrends und Investitionsmöglichkeiten zu bewerten, indem Sie Unternehmensprofile und Finanzierungsdetails untersuchen.
 
-### 2. Competitive Benchmarking
-Use the dataset to compare competitors' business strategies and performance metrics, aiding strategic planning and market positioning.
+### 2. Wettbewerbsbenchmarking
+Verwenden Sie den Datensatz, um die Geschäftsstrategien und Leistungskennzahlen von Wettbewerbern zu vergleichen und damit die strategische Planung sowie die Marktpositionierung zu unterstützen.
 
-### 3. Market Research
-Conduct in-depth market research by analyzing company descriptions, founding years, and deal types to uncover sector dynamics.
+### 3. Marktforschung
+Führen Sie eine umfassende Marktforschung durch, indem Sie Unternehmensbeschreibungen, Gründungsjahre und Deal-Arten analysieren, um Branchendynamiken aufzudecken.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -71,8 +71,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -81,14 +81,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Pitchbook Companies Information dataset](https://brightdata.com/products/datasets/pitchbook)**
+**[Holen Sie sich den vollständigen Pitchbook Companies Information dataset](https://brightdata.de/products/datasets/pitchbook)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie den kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
