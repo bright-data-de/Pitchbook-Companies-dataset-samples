@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 1.002 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Pitchbook Companies Information Dataset Sample** umfasst **1.002 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
