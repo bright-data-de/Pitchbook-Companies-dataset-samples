@@ -1,54 +1,54 @@
 # Pitchbook Companies Information Dataset Sample
 
-<h2>Ein Beispiel-Datensatz mit 1.002 Datensätzen</h2>
+<h2>Ein Beispieldatensatz mit 1.002 Einträgen</h2>
 
 <a href="https://brightdata.de">
     <img src="https://github.com/bright-data-de/Pitchbook-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-Dieses **Pitchbook Companies Information Dataset Sample** umfasst **1.002 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
+Dieses **Pitchbook Companies Information Dataset Sample** umfasst **1.002 Einträge** und wurde mithilfe der **Bright Data API** extrahiert.
 
-## Data Points
+## Datenpunkte
 
-| Field Name | Description |
+| Feldname | Beschreibung |
 |------------|-------------|
 | `url` | Die Webadresse für das Profil des Unternehmens auf Pitchbook. |
 | `id` | Eindeutige Kennung, die jedem Unternehmen von Pitchbook zugewiesen wird. |
 | `company_name` | Der offizielle Name des Unternehmens. |
 | `company_socials` | Links zu den Social-Media-Profilen des Unternehmens. |
 | `year_founded` | Das Jahr, in dem das Unternehmen gegründet wurde. |
-| `status` | Aktueller Geschäftsstatus, z. B. aktiv, übernommen oder nicht mehr tätig. |
-| `employees` | Ungefähre Anzahl der im Unternehmen beschäftigten Mitarbeitenden. |
-| `latest_deal_type` | Die zuletzt erfolgte Deal-Art, z. B. M&A, Finanzierungsrunde. |
+| `status` | Aktueller Geschäftsstatus wie aktiv, übernommen oder nicht mehr tätig. |
+| `employees` | Ungefähre Anzahl der Mitarbeiter, die im Unternehmen arbeiten. |
+| `latest_deal_type` | Der jüngste Deal-Typ, z. B. M&A, Finanzierungsrunde. |
 | `financing_rounds` | Gesamtzahl der Finanzierungsrunden, die das Unternehmen durchlaufen hat. |
 | `investments` | Anzahl der vom Unternehmen getätigten Investitionen. |
-| `description` | Kurzer Überblick über die Geschäftstätigkeit und Produkte/Dienstleistungen des Unternehmens. |
+| `description` | Kurzer Überblick über die Geschäftstätigkeit sowie Produkte/Dienstleistungen des Unternehmens. |
 | `contact_information` | Kontaktdaten einschließlich Websites und E-Mail-Adressen. |
 | `patents` | Informationen zu Patenten, die das Unternehmen hält. |
 | `competitors` | Liste der wichtigsten Wettbewerber in der Branche. |
-| `research_analysis` | Berichte und Analysen, die zum Geschäft des Unternehmens durchgeführt wurden. |
-| `patent_activity` | Details zu aktuellen Patentanmeldungen und -aktivitäten. |
+| `research_analysis` | Berichte und Analysen, die über die Geschäftstätigkeit des Unternehmens durchgeführt wurden. |
+| `patent_activity` | Details zu aktuellen Patentanmeldungen und Aktivitäten. |
 | `all_investments` | Umfassende Liste aller Investitionen, die das Unternehmen erhalten hat. |
-| `faq` | Häufig gestellte Fragen im Zusammenhang mit dem Profil des Unternehmens. |
-| `latest_deal_amount` | Gemeldeter Betrag des letzten Deals oder der letzten Investition. |
-| `latest_deal_amount_value` | Numerischer Wert des letzten Deal-Betrags. |
-| `latest_deal_date` | Datum des letzten Deals, an dem das Unternehmen beteiligt war. |
+| `faq` | Häufig gestellte Fragen zum Unternehmensprofil. |
+| `latest_deal_amount` | Gemeldeter Betrag des neuesten Deals oder der neuesten Investition. |
+| `latest_deal_amount_value` | Numerischer Wert des neuesten Deal-Betrags. |
+| `latest_deal_date` | Datum des jüngsten Deals, an dem das Unternehmen beteiligt war. |
 
 
-## Use Cases
+## Anwendungsfälle
 
-### 1. Investmentanalyse
+### 1. Investitionsanalyse
 Nutzen Sie diesen Datensatz, um Markttrends und Investitionsmöglichkeiten zu bewerten, indem Sie Unternehmensprofile und Finanzierungsdetails untersuchen.
 
-### 2. Wettbewerbsbenchmarking
-Verwenden Sie den Datensatz, um die Geschäftsstrategien und Leistungskennzahlen von Wettbewerbern zu vergleichen und damit die strategische Planung sowie die Marktpositionierung zu unterstützen.
+### 2. Wettbewerbsvergleich
+Verwenden Sie den Datensatz, um Geschäftsstrategien und Leistungskennzahlen von Wettbewerbern zu vergleichen und so die strategische Planung und Marktpositionierung zu unterstützen.
 
 ### 3. Marktforschung
-Führen Sie eine umfassende Marktforschung durch, indem Sie Unternehmensbeschreibungen, Gründungsjahre und Deal-Arten analysieren, um Branchendynamiken aufzudecken.
+Führen Sie eingehende Marktforschung durch, indem Sie Unternehmensbeschreibungen, Gründungsjahre und Deal-Typen analysieren, um die Dynamik des Sektors aufzudecken.
 
 
 
-## File Formats
+## Dateiformate
 
 Der Datensatz ist in mehreren Formaten verfügbar:
 - **CSV** (in diesem Sample enthalten)
@@ -56,11 +56,11 @@ Der Datensatz ist in mehreren Formaten verfügbar:
 - **NDJSON**
 - **JSON Lines**
 - **Parquet**
-- **Compressed (.gz)**
+- **Komprimiert (.gz)**
 
-## Delivery Options
+## Bereitstellungsoptionen
 
-- **Email**
+- **E-Mail**
 - **API Download**
 - **Webhook**
 - **Amazon S3**
@@ -69,26 +69,26 @@ Der Datensatz ist in mehreren Formaten verfügbar:
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## Aktualisierungshäufigkeit
 
 Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
-- **Once** (einmalige Bereitstellung)
-- **Daily**
-- **Weekly**
-- **Monthly**
-- **Quarterly**
-- **Custom schedules**
+- **Einmalig** (einmalige Bereitstellung)
+- **Täglich**
+- **Wöchentlich**
+- **Monatlich**
+- **Vierteljährlich**
+- **Benutzerdefinierte Zeitpläne**
 
-## Data Enrichment
+## Datenanreicherung
 
-Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Anreicherungsoptionen.
 
-**[Holen Sie sich den vollständigen Pitchbook Companies Information dataset](https://brightdata.de/products/datasets/pitchbook)**
+**[Holen Sie sich den vollständigen Pitchbook Companies Information-Datensatz](https://brightdata.de/products/datasets/pitchbook)**
 
 ---
 
 ## Kostenloser Zugang für Forschende und NGOs
 
-Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)**. 
+Die Bright Initiative bietet kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)** für akademische Forschende, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten. 
 
-Beantragen Sie den kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
